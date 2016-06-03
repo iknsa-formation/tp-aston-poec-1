@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	padding:0;
+}
+.banner{
+     background: url(../images/foret.jpg) center no-repeat;
+     height: 500px;
+     width: 100%;
+      color: #FFF;
+      padding-top: 100px; 
+
+     span{
+     	display: block;
+     	width: 100px;
+     	padding: 30px;
+     	background: #999;
+     	margin-left: 50%;
+
+     }
+
+     h1, h5{
+     	text-align: center
+     }
+
+}
